@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    height: 408px;
+    background-color: rgb(221, 221, 221);
+}
+
+.main{
+    padding: 0px 80px;
+}
+
+.main_1{
+    padding: 0px 12px 0px 0px;
+    height: 252px;
+    width: ;
+}
