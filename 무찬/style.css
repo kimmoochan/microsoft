@@ -26,6 +26,7 @@
 .main_two{
     display: flex;
     justify-content: center;
+    margin-bottom: 48px;
 }
 
 
@@ -85,8 +86,11 @@
     padding: 16px 24px 24px;
 }
 .main_two_box{
-    width: 406px;
+    width: 357px;
     box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_two_box_img img{
+    width: 357px;
 }
 .main_two_box_title_two{
     padding: 24px 24px 0;
@@ -95,8 +99,11 @@
     padding: 16px 24px 24px;
 }
 .main_two_box_two{
-    width: 406px;
+    width: 357px;
     box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_two_box_img_two img{
+    width: 357px;
 }
 .main_two_box_title_three{
     padding: 24px 24px 0;
@@ -105,8 +112,11 @@
     padding: 16px 24px 24px;
 }
 .main_two_box_three{
-    width: 406px;
+    width: 357px;
     box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_two_box_img_three img{
+    width: 357px;
 }
 .main_two_box_title_four{
     padding: 24px 24px 0;
@@ -115,6 +125,170 @@
     padding: 16px 24px 24px;
 }
 .main_two_box_four{
-    width: 406px;
+    width: 357px;
     box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_two_box_img_four img{
+    width: 357px;
+}
+
+
+/* main_three_img */
+.main_three_box_img{
+    text-align: center;
+    background-image: url(./img/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create_VP5-1596x600.avif);
+    height: 600px;
+    width: 1500px;
+    align-items: center;
+}
+
+
+/* main_three_box */
+.main_three_box{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* main_three_box_title */
+.main_three_box_title{
+    padding: 0 130px;
+    padding-top: 10%;
+    /* align-self: center;
+    display: grid; */
+}
+
+
+
+/* main_three_box_title_box */
+.main_three_box_title_box{
+    /* height: 1200px; */
+    width: 380px;
+    top: 50%;
+    display: grid;
+    /* align-items: center; */
+    align-items: center;
+    /* align-self: center; */
+    /* display: grid; */
+    text-align: left;
+}
+.main_three_box_title_h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-justify: inter-word;
+}
+.main_three_box_title_h2 h2{
+text-justify: inter-word;
+}
+.main_three_box_title_div{
+    font-size: 16px;
+    width: 383px;
+}
+.main_three{
+    margin: 96px 0 48px 0;
+}
+
+
+/* main_four_box_detail */
+.main_four_box_title{
+    padding: 24px 24px 0;
+}
+.main_four_box_button{
+    padding: 16px 24px 24px;
+}
+.main_four_box{
+    width: 357px;
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_four_box_img img{
+    width: 357px;
+}
+.main_four_box_two_title{
+    padding: 24px 24px 0;
+}
+.main_four_box_two_button{
+    padding: 16px 24px 24px;
+}
+.main_four_box_two{
+    width: 357px;
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_four_box_two_img img{
+    width: 357px;
+}
+.main_four_box_three_title{
+    padding: 24px 24px 0;
+}
+.main_four_box_three_button{
+    padding: 16px 24px 24px;
+}
+.main_four_box_three{
+    width: 357px;
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_four_box_three_img img{
+    width: 357px;
+}
+.main_four_box_four_title{
+    padding: 24px 24px 0;
+}
+.main_four_box_four_button{
+    padding: 16px 24px 24px;
+}
+.main_four_box_four{
+    width: 357px;
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+}
+.main_four_box_four_img img{
+    width: 357px;
+}
+
+
+/* main_four_boxs_height */
+.main_four_box{
+    height: 440px;
+}
+.main_four_box_two{
+    height: 440px;
+}
+.main_four_box_three{
+    height: 440px;
+}
+.main_four_box_four{
+    height: 440px;
+}
+
+
+/* main_four */
+.main_four{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+}
+
+
+/* main_four_box_padding */
+.main_four_box_padding{
+    padding: 0 12px;
+}
+.main_four_box_two_padding{
+    padding: 0 12px;
+}
+.main_four_box_three_padding{
+    padding: 0 12px;
+}
+.main_four_box_four_padding{
+    padding: 0 12px;
+}
+
+
+.main_four_h2 h2{
+    width: 1500px;
+}
+.main_four_h2{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
 }
